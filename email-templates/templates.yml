@@ -1,0 +1,8 @@
+# Templates are in yaml 1.2, format http://yaml.org/
+# Templates should be placed in an S3 bucket whose settings are in config.js
+
+default:
+    subject: Now you're doing the Lambada
+    text: |
+        Thank you for playing!
+        See you soon.

@@ -4,7 +4,7 @@ AWS Lambda Quick start
 This service processes documents sent to S3. It makes use of Amazon Lambda and S3 bucket events.
 Here is the official walkthrough for [configuring S3 and Lambda](http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-s3-events-adminuser.html).
 The Setup steps below are only a summary for ongoing development. 
-This code is and setup is further explained in my blog https://peekandpoke.wordpress.com/2015/02/26/dancing-the-lambada-with-aws-lambda-or-sending-emails-on-s3-events/
+This code and setup is further explained in my blog https://peekandpoke.wordpress.com/2015/02/26/dancing-the-lambada-with-aws-lambda-or-sending-emails-on-s3-events/
 
 # Development Setup and Testing
 
